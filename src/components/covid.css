@@ -1,0 +1,10 @@
+.container {
+    margin: auto;
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 30% 68%;
+}
+
+.btn{
+ margin-left: 5px;
+}
